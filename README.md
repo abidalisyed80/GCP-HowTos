@@ -1,16 +1,16 @@
-# GCP and Scenario Based Tutorials
+# GCP and Scenario-Based Tutorials
 
-Welcome to the GCP and Senerion Tutorials repository! Here, you'll find a collection of tutorials, guides, and resources aimed at helping you learn and master Google Cloud Platform (GCP) with a focus on Senerion-based configurations and best practices.
+Welcome to the GCP and Scenario-Based Tutorials repository! Here, you'll find a collection of tutorials, guides, and resources aimed at helping you learn and master Google Cloud Platform (GCP) with a focus on Scenario-based configurations and best practices.
 
 ## About
 
-This repository is created to provide hands-on tutorials and insightful guides for developers, DevOps engineers, and anyone interested in harnessing the power of GCP with Senerion technologies. Whether you're new to GCP or looking to deepen your knowledge, you'll find something valuable here.
+This repository is created to provide hands-on tutorials and insightful guides for developers, DevOps engineers, and anyone interested in harnessing the power of GCP with Scenario technologies. Whether you're new to GCP or looking to deepen your knowledge, you'll find something valuable here.
 
 ## Contents
 
 - Step-by-step tutorials for setting up various GCP services.
 - Best practices for deploying applications on GCP infrastructure.
-- Insights into leveraging Senerion-based configurations for optimized performance.
+- Insights into leveraging Scenario-based configurations for optimized performance.
 - Examples of real-world use cases and solutions.
 - Contributions from the community to enrich the learning experience.
 
@@ -29,6 +29,6 @@ Contributions to this repository are highly encouraged! Whether it's fixing a ty
 
 We value your feedback! If you have suggestions for improvement, ideas for new tutorials, or any questions, feel free to open an issue or reach out to us.
 
-Let's embark on a journey to explore GCP and Senerion together!
+Let's embark on a journey to explore GCP and Scenario together!
 
 Happy learning!
