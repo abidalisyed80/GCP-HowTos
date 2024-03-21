@@ -1,4 +1,4 @@
-# GCP and Senerion Tutorials
+# GCP and Scenario Based Tutorials
 
 Welcome to the GCP and Senerion Tutorials repository! Here, you'll find a collection of tutorials, guides, and resources aimed at helping you learn and master Google Cloud Platform (GCP) with a focus on Senerion-based configurations and best practices.
 
